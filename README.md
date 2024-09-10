@@ -30,7 +30,7 @@ ui_ux_engineer 10000000 3
 software_engineer
 2
 
-Contoh masukan 2
+- Contoh masukan 2
 6
 front_end 10000000 3
 back_end 11000000 3
