@@ -1,5 +1,5 @@
 # TMD-ALPRO1
-Tugas Masa Depan (Tugas Besar) pada mata kuliah Algoritma dan Pemrograman semester 1
+Tugas Masa Depan (Tugas Besar) pada mata kuliah Algoritma dan Pemrograman 1 semester 1
 
 Tugas masa depan ini saya buat untuk memenuhi syarat lulus dari mata kuliah algoritma dan pemrograman 1 di semester 1
 
